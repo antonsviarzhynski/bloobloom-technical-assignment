@@ -1,0 +1,2 @@
+export const HOME_TRY_MENU_LABEL = 'HOME TRY ON';
+export const PAIR_FOR_PAIR_MENU_LABEL = 'PAIR FOR PAIR';
